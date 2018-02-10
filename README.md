@@ -1,2 +1,3 @@
-# jonen-todo
-Jonen To Do App made with React Native
+# Calstar
+
+Calstar To Do App made with React Native
